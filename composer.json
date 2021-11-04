@@ -1,5 +1,5 @@
 {
-  "name": "vitalybaev/google-merchant-feed",
+  "name": "geniusdivision/google-merchant-feed",
   "description": "PHP package for creating Google Merchant products feed",
   "keywords": ["google", "merchant", "feed"],
   "license": "MIT",
